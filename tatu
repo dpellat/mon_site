@@ -1,0 +1,41 @@
+[33mcommit d98a321dc2aa3b3828560dd1e2868945ac77f760[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Dominique Pellat <dominique.pellat@gmail.com>
+Date:   Tue Apr 21 08:45:47 2020 +0200
+
+    ajout fichier gitignore
+
+[33mcommit 5e5b308ccaa68ef0c2921e9b8cefb70d9494b07f[m[33m ([m[1;33mtag: MON_SITE_V3[m[33m)[m
+Author: Dominique Pellat <dominique.pellat@gmail.com>
+Date:   Fri Apr 17 12:11:16 2020 +0200
+
+    #2 ajout fichier medal bronze
+
+[33mcommit d2797db2555d9daa79197974d86b711b3c17d576[m
+Author: clone <dominique.pellat@gmail.com>
+Date:   Thu Apr 16 12:00:07 2020 +0200
+
+    #1 .. ajout fichier README.md
+
+[33mcommit a097b2cc18075df2855e138d2c0427ffa9695122[m[33m ([m[1;33mtag: MON_SITE_V2[m[33m)[m
+Author: Dominique Pellat <dominique.pellat@gmail.com>
+Date:   Thu Apr 2 08:11:55 2020 +0200
+
+    ajout des titres
+
+[33mcommit 78184ead2b6b1689a1210d1a09289397e01d71c1[m
+Author: Dominique Pellat <dominique.pellat@gmail.com>
+Date:   Fri Jun 14 00:14:22 2019 +0200
+
+    ajout div dom
+
+[33mcommit 1ff76dade0ace62175f8171383b5affbe724bcb2[m[33m ([m[1;33mtag: MON-SITE-V1[m[33m)[m
+Author: Dominique Pellat <dominique.pellat@gmail.com>
+Date:   Wed Apr 3 23:42:47 2019 +0200
+
+    ajout du top-banner
+
+[33mcommit a4ca8fc68bc67a6540ba95db42a32751729a11d0[m
+Author: Dominique Pellat <dominique.pellat@gmail.com>
+Date:   Wed Apr 3 23:37:59 2019 +0200
+
+    mon premeir commit
